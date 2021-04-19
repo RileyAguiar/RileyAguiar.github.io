@@ -1,4 +1,4 @@
-#box {
+.box {
     display:inline-block;
     background-color: #212121;
     box-shadow: 10px 10px 0 rgba(83, 80, 80, 0.692);
@@ -7,6 +7,6 @@
 
 }   
 
-#box h1 {
+.box .title {
     margin-bottom: 25px;    
 }
