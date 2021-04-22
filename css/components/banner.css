@@ -24,8 +24,3 @@
     display:flex;
     justify-content: space-around;
 }
-
-.banner.-second {
-    background-color: #212121;
-    background-image: none;
-}
